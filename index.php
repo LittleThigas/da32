@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>Walter de Jesus, Thiago Santana </h1>
+    <img src="imagens/pizza.png" alt="Pizza" />
+
 </body>
 </html>
